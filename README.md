@@ -89,6 +89,16 @@ Whisper + DistilBERT + gTTS powered voice sentiment analysis project.
 
 <div align="center">
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/nagalakshmiarumugam/nagalakshmiarumugam/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagalakshmiarumugam&theme=radical&hide_border=true&background=0d1117" />
