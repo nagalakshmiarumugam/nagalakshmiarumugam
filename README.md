@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nagalakshmi%20A&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+FloatChat+%F0%9F%8C%8A+AI+%2B+Ocean+Data;MERN+Stack+Developer;ECE+Student+%40+Sri+Eshwar+College;Turning+ideas+into+interfaces+%E2%9C%A8" />
+<img src="profile-halftone.png" width="280"/>
 
 <a href="https://www.linkedin.com/in/nagalakshmi-a-1a13b2363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nagalakshmi.a2024ece@sece.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
